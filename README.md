@@ -6,6 +6,8 @@ Done in Python 3.x
 
 //---STILL IN DEV---//
 
+*Simulation may not work*
+
 Command line Usage: QucsStudioConv.py <input_file.sch> -v <output_version> -o <output_file_name>
 
 example: QucsStudioConv.py myfile.sch -v 0.0.19 -o converted
